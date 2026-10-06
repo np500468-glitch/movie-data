@@ -1,6 +1,6 @@
 # 🎬 Movie Dataset Analysis
 
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000008d148210943749c8b055b892&ts=497578&p=fs&cid=1&sig=1dbbd88dd2180c572dc8a811f7803c728398b4137638c33cd8d226fcb0a1d776&v=0" alt="Project Screenshot" width="">
+<img src="<img width="1536" height="1024" alt="Movie Dataset Analysis Dashboard" src="https://github.com/user-attachments/assets/d806faa9-04fa-4630-b3b2-e89b67d48b9b" alt="Project Screenshot" width="">
 
 ## 📌 Project Overview
 
