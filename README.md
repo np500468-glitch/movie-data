@@ -1,7 +1,7 @@
 # 🎬 Movie Dataset Analysis
 
 
-<img width="1536" height="1024" alt="Movie Dataset Analysis Dashboard" src="https://github.com/user-attachments/assets/d806faa9-04fa-4630-b3b2-e89b67d48b9b" alt="Project Screenshot" width="">
+[<img width="1536" height="1024" alt="Movie Dataset Analysis Dashboard" src="https://github.com/user-attachments/assets/d806faa9-04fa-4630-b3b2-e89b67d48b9b" alt="Project Screenshot" width="">](https://github.com/khushiyadav222/train-data)
 
 ## 📌 Project Overview
 
