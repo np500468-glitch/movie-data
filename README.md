@@ -1,5 +1,7 @@
 # 🎬 Movie Dataset Analysis
 
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000008d148210943749c8b055b892&ts=497578&p=fs&cid=1&sig=1dbbd88dd2180c572dc8a811f7803c728398b4137638c33cd8d226fcb0a1d776&v=0" alt="Project Screenshot" width="">
+
 ## 📌 Project Overview
 
 This project focuses on analyzing a **Movie Dataset** using Python.
